@@ -4,8 +4,6 @@
 
 **A fast, modern notes app with tagging, search, and AI assistance, built with Next.js, TypeScript, and Prisma.**
 
- [Report a Bug](https://github.com/kopparthiLokesh/ai-notes-app/issues) · [Request a Feature](https://github.com/kopparthiLokesh/ai-notes-app/issues)
-
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
@@ -19,13 +17,6 @@
 ## 📖 Overview
 
 AI-Powered Notes & Task App helps you capture ideas and tasks quickly, organise them with tags, and find them again instantly. An integrated LLM layer adds smart assistance on top of your notes, so you spend less time organising and more time doing.
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="<img width="1198" height="847" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/34eb8d8e-aa5e-40b2-a95f-9d55b20bf7df" />
-" alt="AI Notes & Tasks app screenshot" width="800">
-</div>
 
 ## ✨ Features
 
