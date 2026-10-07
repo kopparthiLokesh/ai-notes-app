@@ -20,19 +20,27 @@
 
 AI-Powered Notes & Task App helps you capture ideas and tasks quickly, organise them with tags, and find them again instantly. An integrated LLM layer adds smart assistance on top of your notes, so you spend less time organising and more time doing.
 
-<!-- TODO: Replace with a real screenshot or GIF -->
-![App Screenshot](./public/screenshot.png)
-
 ## ✨ Features
 
-- **Create, edit, and delete notes** with a clean, responsive interface
-- **Tag support**: add tags to any note and filter by them with one click
+- **Quick note capture**: add a note with a title, body, and tags in one simple form
+- **Comma-separated tags**: type `work, ideas` and tags are parsed automatically
+- **One-click tag filtering**: filter your notes with tag chips such as `#design`, `#meeting`, `#work`
 - **Instant search**: find notes by title or content as you type
 - **AI assistance**: LLM-powered features for your notes <!-- TODO: be specific, e.g. summarisation, auto-tagging, task extraction -->
-- **Input validation** on both client and server for reliable data
-- **Persistent storage** using Prisma ORM with a relational database
-- **Global state management** for a smooth, snappy UI
-- **Fully responsive** on desktop, tablet, and mobile
+- **Input validation**: the form checks your input before saving
+- **Persistent storage**: notes are saved with Prisma ORM
+- **Clean, responsive UI**: works on desktop, tablet, and mobile
+
+## 📸 Screenshots
+
+<div align="center">
+
+![AI Notes & Tasks - Home](./screenshots/home.png)
+
+</div>
+
+<!-- Want more? Add images to /screenshots and list them here, e.g.
+![AI Feature](./screenshots/ai-features.png) -->
 
 ## 🛠️ Tech Stack
 
@@ -173,7 +181,8 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for details.
 **Kopparthi Lokesh**
 
 - GitHub: [@kopparthiLokesh](https://github.com/kopparthiLokesh)
-- LinkedIn: <!-- TODO: add your LinkedIn URL -->
+- LinkedIn: [@kopparthiLokesh](https://www.linkedin.com/in/kopparthilokesh/)
+- Gmail: [@kopparthiLokesh](https://mail.google.com/mail/?view=cm&fs=1&to=kopparthilokeshraj@gmail.com)
 
 ---
 
