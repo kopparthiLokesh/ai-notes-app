@@ -4,7 +4,7 @@
 
 **A fast, modern notes app with tagging, search, and AI assistance, built with Next.js, TypeScript, and Prisma.**
 
-[Live Demo](https://your-app.vercel.app) · [Report a Bug](https://github.com/kopparthiLokesh/ai-notes-app/issues) · [Request a Feature](https://github.com/kopparthiLokesh/ai-notes-app/issues)
+ [Report a Bug](https://github.com/kopparthiLokesh/ai-notes-app/issues) · [Request a Feature](https://github.com/kopparthiLokesh/ai-notes-app/issues)
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -23,7 +23,8 @@ AI-Powered Notes & Task App helps you capture ideas and tasks quickly, organise 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="AI Notes & Tasks app screenshot" width="800">
+  <img src="<img width="1198" height="847" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/34eb8d8e-aa5e-40b2-a95f-9d55b20bf7df" />
+" alt="AI Notes & Tasks app screenshot" width="800">
 </div>
 
 ## ✨ Features
@@ -43,11 +44,15 @@ AI-Powered Notes & Task App helps you capture ideas and tasks quickly, organise 
 | --- | --- |
 | Framework | [Next.js](https://nextjs.org/) (App Router) |
 | Language | [TypeScript](https://www.typescriptlang.org/) |
+| Authentication | [Clerk](https://clerk.com/) |
 | Database ORM | [Prisma](https://www.prisma.io/) |
-| Database | <!-- TODO: PostgreSQL / SQLite / MySQL --> |
-| State Management | <!-- TODO: Zustand / Redux / Context --> |
-| Styling | <!-- TODO: Tailwind CSS / CSS Modules --> |
-| AI / LLM | <!-- TODO: OpenAI / Gemini / Groq / Anthropic --> |
+| Database | [PostgreSQL](https://www.postgresql.org/) |
+| State Management | [Zustand](https://zustand.docs.pmnd.rs/) |
+| Styling | [Tailwind CSS](https://tailwindcss.com/) |
+| UI Components | [shadcn/ui](https://ui.shadcn.com/) |
+| AI / LLM | [OpenAI API](https://platform.openai.com/) |
+| AI Model | GPT-4o-mini |
+| Validation | [Zod](https://zod.dev/) |
 | Linting & Formatting | ESLint, Prettier |
 | Deployment | [Vercel](https://vercel.com/) |
 
