@@ -20,6 +20,12 @@
 
 AI-Powered Notes & Task App helps you capture ideas and tasks quickly, organise them with tags, and find them again instantly. An integrated LLM layer adds smart assistance on top of your notes, so you spend less time organising and more time doing.
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="./screenshots/home.png" alt="AI Notes & Tasks app screenshot" width="800">
+</div>
+
 ## ✨ Features
 
 - **Quick note capture**: add a note with a title, body, and tags in one simple form
@@ -30,17 +36,6 @@ AI-Powered Notes & Task App helps you capture ideas and tasks quickly, organise 
 - **Input validation**: the form checks your input before saving
 - **Persistent storage**: notes are saved with Prisma ORM
 - **Clean, responsive UI**: works on desktop, tablet, and mobile
-
-## 📸 Screenshots
-
-<div align="center">
-
-![AI Notes & Tasks - Home](./screenshots/home.png)
-
-</div>
-
-<!-- Want more? Add images to /screenshots and list them here, e.g.
-![AI Feature](./screenshots/ai-features.png) -->
 
 ## 🛠️ Tech Stack
 
